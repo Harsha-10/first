@@ -3,3 +3,4 @@ second commit
 dfk
 ready to merge!
 i'm in terminal
+new ubuntu terminal
